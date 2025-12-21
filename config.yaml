@@ -1,0 +1,3 @@
+cpu_threshold: 80
+critical_cpu: 90
+log_file: automation.log
