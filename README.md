@@ -32,12 +32,15 @@ This project implements an intelligent alert validation workflow that:
 ---
 
 🛠️ Technologies Used
-- Python  
-- psutil  
-- YAML  
-- JSON  
-- Logging  
-- Git & GitHub  
+- Automation
+- Monitoring
+- Python
+- psutil (CPU monitoring)
+- YAML (configuration management)
+- JSON (ticket storage)
+- Logging
+- Git & GitHub
+- Linux fundamentals 
 
 ---
 
