@@ -26,6 +26,7 @@ This project intelligently processes CPU utilization alerts using Python logic a
 4. If usage returns to normal → ticket is auto-resolved
 
 ## ▶️ How to Run
+
 ```bash
 
 
